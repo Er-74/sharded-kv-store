@@ -1,0 +1,13 @@
+build/
+cmake-build-debug/
+cmake-build-release/
+
+.vscode/
+.idea/
+
+*.out
+*.app
+test.wal
+test.snap
+app.wal
+app.snap
